@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react.rambo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react.rambo/static/js/main.0f340abe.chunk.js",
+    "main.js.map": "/react.rambo/static/js/main.0f340abe.chunk.js.map",
+    "runtime-main.js": "/react.rambo/static/js/runtime-main.420ecb06.js",
+    "runtime-main.js.map": "/react.rambo/static/js/runtime-main.420ecb06.js.map",
+    "static/js/2.291167eb.chunk.js": "/react.rambo/static/js/2.291167eb.chunk.js",
+    "static/js/2.291167eb.chunk.js.map": "/react.rambo/static/js/2.291167eb.chunk.js.map",
+    "index.html": "/react.rambo/index.html",
+    "precache-manifest.c06140fe4352658228fa075a974dd48c.js": "/react.rambo/precache-manifest.c06140fe4352658228fa075a974dd48c.js",
+    "service-worker.js": "/react.rambo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react.rambo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.291167eb.chunk.js.LICENSE.txt": "/react.rambo/static/js/2.291167eb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react.rambo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.420ecb06.js",
+    "static/js/2.291167eb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0f340abe.chunk.js"
+  ]
+}
